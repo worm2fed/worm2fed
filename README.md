@@ -1,13 +1,6 @@
-<table align="center">
-  <tr>
-    <td>
-      <img height="100px" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/1204px-Haskell-Logo.svg.png">
-    </td>
-    <td>
-      <img src ="https://github-readme-stats.vercel.app/api?username=worm2fed&show_icons=true&count_private=true&hide_border=true&theme=default&include_all_commits=true">
-    </td>
-  </tr>
-</table>
+🌱
+
+![](https://github-readme-stats.vercel.app/api?username=worm2fed&show_icons=true&count_private=true&hide_border=true&theme=default&include_all_commits=true)
 
 <!--
 **worm2fed/worm2fed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
